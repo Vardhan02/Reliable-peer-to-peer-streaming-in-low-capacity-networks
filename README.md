@@ -1,5 +1,3 @@
-# Reliable-peer-to-peer-streaming-in-low-capacity-networks
-
 # Procedure:
 • Installation and configuration of WSL (Windows Subsystem for Linux) followed by installation of Ubuntu 20.04 on Windows
 • Installation of NS-3.28.1 followed by its configuration using WAF build
