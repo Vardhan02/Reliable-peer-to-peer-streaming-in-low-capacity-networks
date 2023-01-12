@@ -1,5 +1,5 @@
 # Procedure:
-• Installation and configuration of WSL (Windows Subsystem for Linux) followed by installation of Ubuntu 20.04 on Windows
+• Installation and configuration of WSL (Windows Subsystem for Linux) followed by installation of Ubuntu 20.04 on Windows \n
 • Installation of NS-3.28.1 followed by its configuration using WAF build
 • Installation of the "gnuplot" tool in Ubuntu 20.04
 • Simulation of the Ustream algorithm followed by the simultaneous plotting of respective graphs
